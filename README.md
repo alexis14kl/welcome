@@ -1,2 +1,0 @@
-# welcome
-pagina de inicio
