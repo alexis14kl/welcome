@@ -1,0 +1,1 @@
+import"./chunk-GAL4ENT6.js";var n=[{path:"",redirectTo:"index",pathMatch:"full"},{path:"index",loadComponent:()=>import("./chunk-23QN3NJE.js").then(t=>t.BeginningComponent),data:{title:"Inicio"}}];export{n as routes};
