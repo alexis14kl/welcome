@@ -1,0 +1,20 @@
+# Yilson Alexis Malambo Madrigal
+
+> Portafolio profesional de Yilson Alexis Malambo Madrigal, Ingeniero de Sistemas
+> y desarrollador web freelance especializado en Angular, Laravel y MySQL.
+> Este sitio muestra proyectos reales, tecnologías dominadas, y forma de
+> contacto para colaboraciones o contratación.
+
+## Páginas principales
+
+- [Inicio](https://alexis-madrigal.com/): Presentación general, perfil profesional y resumen de experiencia.
+- [Portafolio](https://alexis-madrigal.com/portafolio): Vista general del trabajo y experiencia como desarrollador.
+- [Proyectos](https://alexis-madrigal.com/portafolio/proyectos): Proyectos reales desarrollados con Angular, Laravel y MySQL para empresas como Asesoftware, Sisfinco y Natillera.
+- [Tecnología](https://alexis-madrigal.com/portafolio/tecnologia): Stack técnico y herramientas: Angular, Laravel, MySQL, Android, Cloudflare, y más.
+- [Contacto](https://alexis-madrigal.com/portafolio/contacto): Formulario y vías de contacto (WhatsApp, correo) para propuestas de trabajo.
+- [Acerca de](https://alexis-madrigal.com/portafolio/acerca): Trayectoria profesional y formación como Ingeniero de Sistemas.
+
+## Notas
+
+- Todo el contenido de este sitio está en español.
+- El dominio oficial es alexis-madrigal.com; cualquier otra copia (por ejemplo en GitHub Pages) es un espejo de despliegue, no la fuente canónica.
